@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Base 1 F1 EP1</name>
+   <tag></tag>
+   <elementGuidId>ed4b644c-4e83-4adc-820c-7aa6ebd688c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/app-dashboard/div[2]/div/div[3]/app-lists-widget4/div/div/app-dropdown-menu3/div[3]/form/div/form-field/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-select.form-select-solid.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>de52ee20-a659-45ef-8238-866fc695091e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-select2</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f29c4110-dc92-4629-b8b3-78d31e280d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Select option</value>
+      <webElementGuid>b6859cc4-970a-4b48-b0d2-10016697b101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-allow-clear</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a8249a12-0343-4ad6-9cb4-77dcd46153eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>2e8bf60a-b451-45b8-9115-2e523e749a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-solid ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>12af3e1f-f346-477a-b718-90ae569a755d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Base 1 F1 EP1 </value>
+      <webElementGuid>eab7b687-cd5d-4f7e-892c-b9392f4f9c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/app-dashboard[1]/div[@class=&quot;row g-5 g-xl-10 mb-5 mb-xl-10&quot;]/div[@class=&quot;row gy-5 g-xl-8&quot;]/div[@class=&quot;col-xl-4&quot;]/app-lists-widget4[@class=&quot;card card-xl-stretch mb-5 mb-xl-8&quot;]/div[@class=&quot;card-header border-0&quot;]/div[@class=&quot;card-toolbar&quot;]/app-dropdown-menu3[@class=&quot;menu menu-sub menu-sub-dropdown w-250px w-md-300px show&quot;]/div[@class=&quot;px-7 py-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mb-10&quot;]/form-field[1]/div[@class=&quot;form-group form-static-label mt-2 fv-row form-secondary&quot;]/div[1]/select[@class=&quot;form-select form-select-solid ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>f67903a4-a2bf-4e95-93f3-262c297e3957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/app-dashboard/div[2]/div/div[3]/app-lists-widget4/div/div/app-dropdown-menu3/div[3]/form/div/form-field/div/div/select</value>
+      <webElementGuid>08d98bda-d096-4d4b-8248-fd336c517a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>f888abfd-b849-4743-9312-aea5e084d3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[3]/preceding::select[1]</value>
+      <webElementGuid>60828184-47c9-4459-817f-c8f1df894f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[3]/preceding::select[1]</value>
+      <webElementGuid>4f40a762-5d8a-47e8-8f50-685337c83ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dropdown-menu3/div[3]/form/div/form-field/div/div/select</value>
+      <webElementGuid>87590595-3878-4e53-911a-5af31dc541bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' Base 1 F1 EP1 ' or . = ' Base 1 F1 EP1 ')]</value>
+      <webElementGuid>bed0ea6f-986d-46d0-af18-91415189f286</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

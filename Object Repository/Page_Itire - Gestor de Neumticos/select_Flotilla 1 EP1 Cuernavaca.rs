@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Flotilla 1 EP1 Cuernavaca</name>
+   <tag></tag>
+   <elementGuidId>c5564079-de7f-4356-b05d-d6435bb44d55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/app-dashboard/div[2]/div/div[2]/app-lists-widget6/div/div/app-dropdown-menu2/div[3]/form/div/form-field/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-select.form-select-solid.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d6d64c07-6753-468c-a335-dce13cb71e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-select2</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5b4c6f27-89f0-422c-8220-0498910a7aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Select option</value>
+      <webElementGuid>c02c5f65-9364-462f-9a9f-a93879e17a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-allow-clear</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>844901d7-7236-4cf1-9ca9-abb9a027983e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>fleet</value>
+      <webElementGuid>4c53331d-04ae-44c8-9dd7-9829b842e656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select form-select-solid ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>34b6a935-a593-484c-b922-227ad126affb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Flotilla 1 EP1 Cuernavaca </value>
+      <webElementGuid>d515131d-2536-4841-85c4-15e7f6307246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/app-dashboard[1]/div[@class=&quot;row g-5 g-xl-10 mb-5 mb-xl-10&quot;]/div[@class=&quot;row gy-5 g-xl-8&quot;]/div[@class=&quot;col-xl-4&quot;]/app-lists-widget6[@class=&quot;card card-xl-stretch mb-xl-8&quot;]/div[@class=&quot;card-header border-0&quot;]/div[@class=&quot;card-toolbar&quot;]/app-dropdown-menu2[@class=&quot;menu menu-sub menu-sub-dropdown w-250px w-md-300px show&quot;]/div[@class=&quot;px-7 py-5&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mb-10&quot;]/form-field[1]/div[@class=&quot;form-group form-static-label mt-2 fv-row form-secondary&quot;]/div[1]/select[@class=&quot;form-select form-select-solid ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>13e27fb0-0f69-4b40-a48b-696b7f321ab2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/app-dashboard/div[2]/div/div[2]/app-lists-widget6/div/div/app-dropdown-menu2/div[3]/form/div/form-field/div/div/select</value>
+      <webElementGuid>a71d0d8a-98a0-421d-83e1-8c8a751d971c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>dd187129-aa41-4ac7-8745-b110616dd5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/preceding::select[1]</value>
+      <webElementGuid>be0e94ea-22dd-40d0-8f64-8c8ba815d0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar'])[2]/preceding::select[1]</value>
+      <webElementGuid>f297a8c9-d695-47c9-8aa8-34a05f4a421e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dropdown-menu2/div[3]/form/div/form-field/div/div/select</value>
+      <webElementGuid>97fff2dc-ba27-483e-a34e-eab79f74fb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' Flotilla 1 EP1 Cuernavaca ' or . = ' Flotilla 1 EP1 Cuernavaca ')]</value>
+      <webElementGuid>c97d0219-8d9b-4f3f-aeb9-33bda27a1f53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

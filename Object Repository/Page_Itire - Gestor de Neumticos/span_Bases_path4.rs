@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bases_path4</name>
+   <tag></tag>
+   <elementGuidId>146ee6a4-474b-4a51-ad00-a30990b17514</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/app-dashboard/div[2]/div/div[3]/app-lists-widget4/div/div/button/app-keenicon/span/span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-lists-widget4.card.card-xl-stretch.mb-5.mb-xl-8 > div.card-header.border-0 > div.card-toolbar > button.btn.btn-sm.btn-icon.btn-color-primary.btn-active-light-primary > app-keenicon[name=&quot;category&quot;] > span.fs-2.ki-category.ki-duotone > span.path4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b5c0a08e-9f96-40cf-ac28-fd0193d0fe27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>path4</value>
+      <webElementGuid>4584e21f-0bd4-42af-a53e-cbdd541920e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/app-dashboard[1]/div[@class=&quot;row g-5 g-xl-10 mb-5 mb-xl-10&quot;]/div[@class=&quot;row gy-5 g-xl-8&quot;]/div[@class=&quot;col-xl-4&quot;]/app-lists-widget4[@class=&quot;card card-xl-stretch mb-5 mb-xl-8&quot;]/div[@class=&quot;card-header border-0&quot;]/div[@class=&quot;card-toolbar&quot;]/button[@class=&quot;btn btn-sm btn-icon btn-color-primary btn-active-light-primary&quot;]/app-keenicon[@class=&quot;fs-2&quot;]/span[@class=&quot;fs-2 ki-category ki-duotone&quot;]/span[@class=&quot;path4&quot;]</value>
+      <webElementGuid>e25da67e-4dc9-4e71-bb48-afcb6f77073e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/app-dashboard/div[2]/div/div[3]/app-lists-widget4/div/div/button/app-keenicon/span/span[4]</value>
+      <webElementGuid>aeb85741-0015-4c29-ac86-b6e23fa2e937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-lists-widget4/div/div/button/app-keenicon/span/span[4]</value>
+      <webElementGuid>e3f140a9-6246-4b4c-8954-6787f6523ff6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

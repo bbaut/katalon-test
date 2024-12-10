@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>My First Mobile Project</name>
+   <name>iTire - First Trainning Project</name>
    <tag></tag>
-   <UUID>e8d22714-c0c0-473f-aa8f-6ba29a573bfa</UUID>
+   <UUID>75d52d05-b37f-4806-a2de-312406886861</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/brandonbautista/Documents/iTire - First Trainning Project/iTire - First Trainning Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
